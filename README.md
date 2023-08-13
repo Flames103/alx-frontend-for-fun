@@ -1,2 +1,1 @@
-# alx-frontend-for-fun
-# Gamess
+# ALX / HOLBERTON FRONTEND FOR FUN yes it is
